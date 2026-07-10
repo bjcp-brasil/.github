@@ -14,12 +14,19 @@ Tradução e manutenção dos guias de estilo do BJCP (Beer Judge Certification 
 - 🌐 [Versão web](https://bjcp-brasil.github.io/cider-guidelines-2025-pt-br/)
 - Repositório: [cider-guidelines-2025-pt-br](https://github.com/bjcp-brasil/cider-guidelines-2025-pt-br)
 
+## Materiais de Exame (Cerveja, Sidra e Hidromel)
+
+Formulários e documentos usados para administrar exames de julgamento e exame escrito do BJCP, traduzidos para Português do Brasil.
+
+- Repositório: [bjcp-exam-materials-pt-br](https://github.com/bjcp-brasil/bjcp-exam-materials-pt-br)
+
 ## Quer colaborar?
 
 Traduções são feitas com apoio da comunidade. Contribuições são bem-vindas, seja revisão de texto, sugestões de terminologia ou correções técnicas.
 
 - [bjcp-2021-pt-br](https://github.com/bjcp-brasil/bjcp-2021-pt-br) — tradução do Guia de Estilos de Cerveja 2021
 - [cider-guidelines-2025-pt-br](https://github.com/bjcp-brasil/cider-guidelines-2025-pt-br) — tradução do Guia de Estilos de Sidra 2025
+- [bjcp-exam-materials-pt-br](https://github.com/bjcp-brasil/bjcp-exam-materials-pt-br) — materiais de exame (julgamento e escrito)
 - [styleguide-2021](https://github.com/bjcp-brasil/styleguide-2021) — versão estruturada/parseada do guia original em inglês
 - [traducao-bjcp-2021](https://github.com/bjcp-brasil/traducao-bjcp-2021) — material de apoio à tradução
 
