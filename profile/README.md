@@ -27,7 +27,7 @@ Traduções são feitas com apoio da comunidade. Contribuições são bem-vindas
 - [bjcp-2021-pt-br](https://github.com/bjcp-brasil/bjcp-2021-pt-br) — tradução do Guia de Estilos de Cerveja 2021
 - [cider-guidelines-2025-pt-br](https://github.com/bjcp-brasil/cider-guidelines-2025-pt-br) — tradução do Guia de Estilos de Sidra 2025
 - [bjcp-exam-materials-pt-br](https://github.com/bjcp-brasil/bjcp-exam-materials-pt-br) — materiais de exame (julgamento e escrito)
-- [styleguide-2021](https://github.com/bjcp-brasil/styleguide-2021) — versão estruturada/parseada do guia original em inglês
+- [styleguide-2021](https://github.com/bjcp-brasil/styleguide-2021) — versão estruturada/parseada do guia (JSON/XML/YAML), em inglês e português
 - [traducao-bjcp-2021](https://github.com/bjcp-brasil/traducao-bjcp-2021) — material de apoio à tradução
 
 Para contribuir, abra uma issue ou pull request no repositório correspondente.
